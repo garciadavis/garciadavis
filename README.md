@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I'm Davis Garcia. I'm from Lima/Peru.
+- I'm currently learning new ways to improve my self and professional
+- How to reach me: https://www.linkedin.com/in/davis-andr%C3%A9-garcia-yupanqui-4bbb96320/.
+
 
 <!--
 **garciadavis/garciadavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
